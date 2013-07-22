@@ -24,6 +24,8 @@ Learn Ember JS - http://freecourses.tutsplus.com/lets-learn-ember
 CSS
 Tricks and snippets
 Large backgrounds - http://www.hongkiat.com/blog/oversized-background-image-design/
+Font-Awesome icons - http://fortawesome.github.io/Font-Awesome/
+Great bg textures - http://subtlepatterns.com/
 
 CSS - Frameworks
 Cardinal - mobile CSS framework - http://cardinalcss.com/
