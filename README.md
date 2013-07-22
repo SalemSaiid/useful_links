@@ -1,4 +1,4 @@
-useful_links
+WebDev Resources to keep in mind
 ============
 
 Lots of webdev related links for me not to forget
