@@ -12,7 +12,7 @@ Lots of webdev related links for me not to forget
 5. Uptodate - Twitter-like timer (posted 5 minutes ago) - http://prezjordan.github.io/uptodate/
 6. Snap.js - Facebook-like sliding menu - http://jakiestfu.github.io/Snap.js/
 
-## jQuery
+### jQuery
 1. Loda Button - animate button when fetching data - http://lugolabs.com/blog/2013/06/23/loda-button
 2. Smint - sticky top menu with anchors - http://www.outyear.co.uk/smint/
 3. tFormer - painless forms with validations - http://tformerjs.com/
