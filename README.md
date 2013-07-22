@@ -31,6 +31,7 @@ Lots of webdev related links for me not to forget
 ### Bootstrap
 1. 50 plugins for Bootstrap - http://tutorialzine.com/2013/07/50-must-have-plugins-for-extending-twitter-bootstrap/
 2. 10 resources for my next BS project- http://www.noupe.com/design/10-killer-resources-to-rock-your-next-bootstrap-project-77553.html
+3. Edit in place plugin - http://vitalets.github.io/x-editable/demo.html
 
 ## WordPress
 1. The top 30 most popular WordPress plugins - http://www.404techsupport.com/2013/07/the-most-popular-wordpress-plugins/
