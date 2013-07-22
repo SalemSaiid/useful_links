@@ -23,6 +23,7 @@ Lots of webdev related links for me not to forget
 2. Large backgrounds - http://www.hongkiat.com/blog/oversized-background-image-design/
 3. Font-Awesome icons - http://fortawesome.github.io/Font-Awesome/
 4. Great bg textures - http://subtlepatterns.com/
+5. Effect - tons of great transitions from CSStricks.com guy - https://github.com/h5bp/Effeckt.css
 
 ## CSS - Frameworks
 1. Cardinal - mobile CSS framework - http://cardinalcss.com/
