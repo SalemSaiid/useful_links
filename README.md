@@ -37,3 +37,4 @@ Lots of webdev related links for me not to forget
 1. The top 30 most popular WordPress plugins - http://www.404techsupport.com/2013/07/the-most-popular-wordpress-plugins/
 2. Chats - http://smashinghub.com/10-useful-wordpress-chat-plugins.htm
 3. 4 useful WP plugins - http://www.1stwebdesigner.com/wordpress/4-very-useful-wordpress-plugins/
+4. 8 useful plugns for Developer - http://www.smashingbuzz.com/2013/07/8-most-helpful-wordpress-plugins-for-developers/
