@@ -17,6 +17,11 @@ Lots of webdev related links for me not to forget
 2. Smint - sticky top menu with anchors - http://www.outyear.co.uk/smint/
 3. tFormer - painless forms with validations - http://tformerjs.com/
 4. Another 24 validation plugins - http://www.designyourway.net/blog/resources/jquery-validation-plugins-for-your-forms-24-items/
+5. Lazy load - http://toddmotto.com/echo-js-simple-javascript-image-lazy-loading/
+6. Nice effects for thumbnails hover - http://1dws.com/demo/narsis-cover/
+7. File input cross-browser - http://jaydevgajera.com/nice-file-input/
+8. Metro modal windows - http://codecanyon.net/item/metro-modal/full_screen_preview/5337148?ref=jqueryrain
+9. Cool link hover effects - http://tympanus.net/Development/CreativeLinkEffects/
 
 ## CSS
 1. Tricks and snippets
