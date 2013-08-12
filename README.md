@@ -22,6 +22,8 @@ Lots of webdev related links for me not to forget
 7. File input cross-browser - http://jaydevgajera.com/nice-file-input/
 8. Metro modal windows - http://codecanyon.net/item/metro-modal/full_screen_preview/5337148?ref=jqueryrain
 9. Cool link hover effects - http://tympanus.net/Development/CreativeLinkEffects/
+10. Simple menu flip effect - http://www.grimmdude.com/jquery-menuflip/
+11. Add flat shadows - http://www.onextrapixel.com/2013/08/09/add-depth-to-flat-ui-with-flat-shadow-js/
 
 ## CSS
 1. Tricks and snippets
@@ -43,3 +45,4 @@ Lots of webdev related links for me not to forget
 2. Chats - http://smashinghub.com/10-useful-wordpress-chat-plugins.htm
 3. 4 useful WP plugins - http://www.1stwebdesigner.com/wordpress/4-very-useful-wordpress-plugins/
 4. 8 useful plugns for Developer - http://www.smashingbuzz.com/2013/07/8-most-helpful-wordpress-plugins-for-developers/
+5. Top plugins for business - http://socialmediatoday.com/douglaskarr/1657586/top-wordpress-plugins-business-2013-infographic
